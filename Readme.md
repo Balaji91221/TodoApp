@@ -4,5 +4,3 @@
    -Anyone can create a todo
    -Anyone can see their existing todos
    -Anyone can marks a todo as done
-
-   ![alt text](image.png)
